@@ -161,7 +161,7 @@ header {
 
 .home__text a {
   border: 2px solid #2d9cca;
-  padding: 16px 40px;
+  padding: 8px 8px;
   border-radius: 8px;
   color: #ffb745;
   background-color: rgb(58, 58, 161);
@@ -782,7 +782,7 @@ right: -32px;
 
   .home__text a {
     border: 2px solid #2d9cca;
-    padding: 16px 48px;
+    padding: 8px 16px;
   }
 
   /* -- Story -- */
